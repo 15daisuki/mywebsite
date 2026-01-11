@@ -12,7 +12,7 @@ title = "HOME"
   # logo = "nia.JPG"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Welcome to my website"
-  copyright = "Copyright © 2026 <a href='https://15daisuki.github.io/my-website/' class='hover:text-primary-600'>SHUU SEMEI</a>. All rights reserved."
+  copyright = "Copyright © 2026 <a href='https://15daisuki.github.io/mywebsite/' class='hover:text-primary-600'>SHUU SEMEI</a>. All rights reserved."
 
 [params.author]
    name = "SHUU SEMEI"
